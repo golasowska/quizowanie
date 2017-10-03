@@ -1,0 +1,9 @@
+#main-wrapper {
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+.score {
+  text-align: right;
+  font-weight: 400;
+}
